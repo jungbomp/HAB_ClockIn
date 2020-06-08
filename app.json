@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "HAB Punch Clock",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "hab_punch_clock",
+    "sdkVersion": "36.0.0",
+    "privacy": "public",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "com.hatandbeyond.punchClock",
+      "supportsTablet": true,
+      "isTabletOnly": true,
+      "buildNumber": "2"
+    },
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "description": ""
+  }
+}
